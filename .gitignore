@@ -10,3 +10,6 @@ public/uploads/*
 .venv/
 client_secret_*.json
 tsconfig.tsbuildinfo
+
+.vercel
+.env*
